@@ -1,4 +1,4 @@
-# NHD-0116-Example-Code
+# NHD-0116 Example Code
 Example code for NHD-0116 displays using ST7066U.
 
 Target: `Arduino Uno`\
